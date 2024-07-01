@@ -1,0 +1,10 @@
+main/__pycache__/
+main/common/__pycache__
+venv/
+main/finetune/
+main/trained_models/
+main/trained_models_test/
+main/logs/
+main/videos/
+main/tmp/
+utils/figures/
